@@ -160,3 +160,7 @@ models_list = [
 ```
 
 - this is to put it briefly.😀
+
+Maybe someone implemented a model with the calculation of the target by districts, such as clustering?
+
+![generation map by district](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F13372827%2F9932de4b9557ebe158c877c85beedc72%2Fmap.jpg?generation=1706813574004989&alt=media)
