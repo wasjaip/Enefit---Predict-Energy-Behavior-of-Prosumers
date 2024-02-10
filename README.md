@@ -1,5 +1,15 @@
 # Enefit-Predict-Energy-Behavior-of-Prosumers
 
+## Special Thanks to Our Team ds60 🌟
+
+A huge shoutout to my teammates for their relentless dedication and hard work:
+
+- Mikhail: [https://www.kaggle.com/mikhailgolubchik](https://www.kaggle.com/mikhailgolubchik)
+- Pavel: [https://www.kaggle.com/pashakrapivin](https://www.kaggle.com/pashakrapivin)
+
+Together, we navigated through countless challenges, optimized our models, and shared invaluable insights, leading us to clinch the top spot! A big thank you to the Kaggle community for being a fountain of ideas and inspiration.😀
+
+
 # Target 🎯
 
 In our project, there was no target transformation. The target was predicted as is. An attempt was made to predict the difference between the target and the average values over several days, relative to some other variables, but the result worsened.
